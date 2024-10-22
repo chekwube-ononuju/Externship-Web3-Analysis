@@ -1,4 +1,4 @@
-##Advanced Frequency Analysis of Smart Contract Risks
+Advanced Frequency Analysis of Smart Contract Risks
 
 Welcome to the Advanced Frequency Analysis of Smart Contract Risks repository. This project focuses on conducting a frequency analysis on risk tags associated with smart contracts using Python. The analysis includes loading data, performing calculations, and creating dynamic visualizations to gain insights into the dataset.
 
